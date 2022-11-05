@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+         <style>
+   /*Internal CSS using element name*/
+      body{background-color:yellow;
+      text-align:center;}
+      h2{front-style:italic;
+      font-size:30px;
+      color:#f08080;}
+     p{font-size:20px;}
+  /*Internal CSS using element name*/
+    .blue{color:blue;}
+    .red{color:red;}
+    .green{clor:green;}
+  </style>
+  </head>
+ <body>
+  <h2>Learning HTML with internal CSS</h2>
+  <p class="blue">This is a blue color paragraph<p/>
+  <p class="red">This is a red color paragraph<p/>
+  <p class="green">This is a green color paragraph</p>
+ </body>
+</html> 
+https://github.com/naseerpatel/firstyear.git
